@@ -5,3 +5,10 @@
  Url to images are there in the other activities.
  Images are fetched and loaded onto ImageViews present on the activities using Glide.  
  A ProgressBar is provided to inform the user about the downloading status.  
+
+## ScreenShots
+  ![MainActivity](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/MainActivity.png)
+  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity0.png)
+  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity1.png)
+  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity2.png)
+  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity3.png)
