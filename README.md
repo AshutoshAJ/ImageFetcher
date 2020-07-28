@@ -5,11 +5,11 @@
  Url to images are there in the other activities.
  Images are fetched and loaded onto ImageViews present on the activities using Glide.  
  A ProgressBar is provided to inform the user about the downloading status.  
-
+ 
+ 
 ## ScreenShots
-  <img src="https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/MainActivity.png" width="100" height="200">
-  ![MainActivity](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/MainActivity.png =200x200)
-  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity0.png){: width="50%" height="50%"}
-  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity1.png)
-  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity2.png)
-  ![Activity0](https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity3.png)
+<img src="https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/MainActivity.png" width="200" height="400">
+<img src="https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity0.png" width="200" height="400">
+<img src="https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity1.png" width="200" height="400">
+<img src="https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity2.png" width="200" height="400">
+<img src="https://github.com/AshutoshAJ/ImageFetcher/blob/master/ScreenShots/Activity3.png" width="200" height="400">
